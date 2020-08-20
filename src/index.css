@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+  --primary: #ff5ab1;
+  --black: #000000;
+  --blackLighter: #9E9E9E;
+  --grayLight: #F5F5F5;
+  --grayMedium: #e5e5e5; 
+  --white: #FFFFFF;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}
+
+button{
+  color: var(--white);
+  border: 1px solid var(--white);
+  box-sizing: border-box;
+  cursor: pointer;
+  padding: 15px 20px;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  outline: none;
+  background: var(--black);
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  transition: opacity .3s;
+}
+
+button:hover,
+button:focus {
+  opacity: .5;
+}
+
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
+
+.erro404 {
+  background-color: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+
+  color: var(--primary);
+  font-size: 20px; 
+}
+
+.sumiu {
+  height: 375px;
+  width: 500px;
+  border-radius: 25%;
+  margin-bottom: 35px;
+}
+
+.mensagem404{
+  color:var(--black);
+}

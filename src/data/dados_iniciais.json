@@ -1,0 +1,356 @@
+{
+  "categorias": [
+    {
+      "titulo": "Temporada 1",
+      "cor": "#ff5ab1",
+      "videos": [
+        {
+          "titulo": "Os Sete Monstrinhos",
+          "url": "https://www.youtube.com/watch?v=AREdUgynGdY"
+        },
+        {
+          "titulo": "Bom Dia - Part 1",
+          "url": "https://www.youtube.com/watch?v=yJ2puysOESc&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=2&t=0s"
+        },
+        {
+          "titulo": "Bom Dia - Part 2",
+          "url": "https://www.youtube.com/watch?v=NeUZiYHfNoM&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=3&t=0s"
+        },
+        {
+          "titulo": "Boa Noite - Part 1",
+          "url": "https://www.youtube.com/watch?v=6DgTkYhhMr4&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=4&t=0s"
+        },
+        {
+          "titulo": "Boa Noite - Part 2",
+          "url": "https://www.youtube.com/watch?v=GskRCZP9ZrI&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=5&t=0s"
+        },
+        {
+          "titulo": "O Mistério do Desaparecimento do Cinco - Part 1",
+          "url": "https://www.youtube.com/watch?v=ghoFY3u5isI&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=5"
+        },
+        {
+          "titulo": "O Mistério do Desaparecimento do Cinco - Part 2",
+          "url": "https://www.youtube.com/watch?v=AOaV1mZe0j4&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=6"
+        },
+        {
+          "titulo": "Sete Monstrinhos e um Bebê - Part 1",
+          "url": "https://www.youtube.com/watch?v=q7dyJkpzKxg&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=7"
+        },
+        {
+          "titulo": "Sete Monstrinhos e um Bebê - Part 2",
+          "url": "https://www.youtube.com/watch?v=cubFqlPjIdM&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=8"
+        },
+        {
+          "titulo": "Você é da Minha Familia - Part 1",
+          "url": "https://www.youtube.com/watch?v=xBX3P7WR6x4&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=9"
+        },
+        {
+          "titulo": "Você é da Minha Familia - Part 2",
+          "url": "https://www.youtube.com/watch?v=RLfOY0d3s-o&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=10"
+        },
+        {
+          "titulo": "Por Favor Senhor Carteiro - Part 1",
+          "url": "https://www.youtube.com/watch?v=3h5rxxumkIQ&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=11"
+        },
+        {
+          "titulo": "Por Favor Senhor Carteiro - Part 2",
+          "url": "https://www.youtube.com/watch?v=qT7MeThpwtk&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=12"
+        },
+        {
+          "titulo": "Doutor.Doutor - Part 1",
+          "url": "https://www.youtube.com/watch?v=lRh5QsSKdNs&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=13"
+        },
+        {
+          "titulo": "Doutor.Doutor - Part 2",
+          "url": "https://www.youtube.com/watch?v=5sThznp2ObY&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=14"
+        },
+        {
+          "titulo": "Ai Chegou Maria - Part 1",
+          "url": "https://www.youtube.com/watch?v=a-ej6evb19o&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=15"
+        },
+        {
+          "titulo": "Ai Chegou Maria - Part 2",
+          "url": "https://www.youtube.com/watch?v=pH-WI5W6GQk&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=16"
+        },
+        {
+          "titulo": "O Melhor Amigo de um Mostro - Part 1",
+          "url": "https://www.youtube.com/watch?v=krANYy6nvDg&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=17"
+        },
+        {
+          "titulo": "O Melhor Amigo de um Mostro - Part 2",
+          "url": "https://www.youtube.com/watch?v=-n7IJ5skYZE&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=18"
+        },
+        {
+          "titulo": "Assombração - Part 1",
+          "url": "https://www.youtube.com/watch?v=CBiDw5Zoj9E&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=19"
+        },
+        {
+          "titulo": "Assombração - Part 2",
+          "url": "https://www.youtube.com/watch?v=A_a45wY9haA&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=20"
+        },
+        {
+          "titulo": "O Plooky - Part 1",
+          "url": "https://www.youtube.com/watch?v=KxQYE4bPLOQ&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=21"
+        },
+        {
+          "titulo": "O Plooky - Part 2",
+          "url": "https://www.youtube.com/watch?v=XI4pG56I1tg&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=22"
+        },
+        {
+          "titulo": "Jogo Limpo - Part 1",
+          "url": "https://www.youtube.com/watch?v=7vfcq_tzxz0&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=23"
+        },
+        {
+          "titulo": "Jogo Limpo - Part 2",
+          "url": "https://www.youtube.com/watch?v=8Z_YsvrRUrM&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=24"
+        },
+        {
+          "titulo": "Achados e Perdidos - Part 1",
+          "url": "https://www.youtube.com/watch?v=JNRwnFPgnDU&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=25"
+        },
+        {
+          "titulo": "Achados e Perdidos - Part 2",
+          "url": "https://www.youtube.com/watch?v=YdSsOpO7LK4&list=PLqHuvUxV34irKgdrhhANOvVQbiF9YnVHz&index=26"
+        }
+      ]
+    },
+    {
+      "titulo": "Temporada 2",
+      "cor": "#ff5ab1",
+      "videos": [
+        {
+          "titulo": "Perdendo Sam - Part 1",
+          "url": "https://www.youtube.com/watch?v=mXGURofAiq0&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=2&t=0s"
+        },
+        {
+          "titulo": "Perdendo Sam - Part 2",
+          "url": "https://www.youtube.com/watch?v=AZ5qZQBp2_c&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=3&t=0s"
+        },
+        {
+          "titulo": "Fora de Vista - Part 1",
+          "url": "https://www.youtube.com/watch?v=Ymi5S0IoEjo&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=4&t=0s"
+        },
+        {
+          "titulo": "Fora de Vista - Part 2",
+          "url": "https://www.youtube.com/watch?v=B4ie7LO-Oy4&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=5&t=0s"
+        },
+        {
+          "titulo": "Todas as Bolas de Gude - Part 1",
+          "url": "https://www.youtube.com/watch?v=QMndJyE1tOs&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=6&t=0s"
+        },
+        {
+          "titulo": "Todas as Bolas de Gude - Part 2",
+          "url": "https://www.youtube.com/watch?v=MDzOTsUinhU&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=7&t=0s"
+        },
+        {
+          "titulo": "O Dente - Part 1",
+          "url": "https://www.youtube.com/watch?v=enLh9lzRhaE&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=7"
+        },
+        {
+          "titulo": "O Dente - Part 2",
+          "url": "https://www.youtube.com/watch?v=9WSsAzEqvfg&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=8"
+        },
+        {
+          "titulo": "Uma Paixão - Part 1",
+          "url": "https://www.youtube.com/watch?v=XH87Dw3WU5M&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=9"
+        },
+        {
+          "titulo": "Uma Paixão - Part 2",
+          "url": "https://www.youtube.com/watch?v=YBIb042RTRA&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=10"
+        },
+        {
+          "titulo": "Cabeleiras - Part 1",
+          "url": "https://www.youtube.com/watch?v=ZxGBuiHPU2Y&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=11"
+        },
+        {
+          "titulo": "Cabeleiras - Part 2",
+          "url": "https://www.youtube.com/watch?v=HMCQBONGZ3U&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=12"
+        },
+        {
+          "titulo": "Elefante - Part 1",
+          "url": "https://www.youtube.com/watch?v=Udjn-vpsVoE&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=13"
+        },
+        {
+          "titulo": "Elefante - Part 2",
+          "url": "https://www.youtube.com/watch?v=OUYSVcrv364&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=14"
+        },
+        {
+          "titulo": "Um Dia no Quartel de Bombeiros - Part 1",
+          "url": "https://www.youtube.com/watch?v=5ti4NXhvXCg&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=15"
+        },
+        {
+          "titulo": "Um Dia no Quartel de Bombeiros - Part 2",
+          "url": "https://www.youtube.com/watch?v=7-klPpDVDcI&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=16"
+        },
+        {
+          "titulo": "Mamãe Fugitiva - Part 1",
+          "url": "https://www.youtube.com/watch?v=mro__CKMUk0&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=17"
+        },
+        {
+          "titulo": "Mamãe Fugitiva - Part 2",
+          "url": "https://www.youtube.com/watch?v=eF3_utSjfvA&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=18"
+        },
+        {
+          "titulo": "Você é o que Come - Part 1",
+          "url": "https://www.youtube.com/watch?v=Htfge_ibZQc&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=19"
+        },
+        {
+          "titulo": "Você é o que Come - Part 2",
+          "url": "https://www.youtube.com/watch?v=cstlgacOuFU&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=20"
+        },
+        {
+          "titulo": "Tolos de Abril - Part 1",
+          "url": "https://www.youtube.com/watch?v=Vm5yE8FV_WQ&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=21"
+        },
+        {
+          "titulo": "Tolos de Abril - Part 2",
+          "url": "https://www.youtube.com/watch?v=BQXK-9Qa1Yw&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=22"
+        },
+        {
+          "titulo": "A Vida é Quatravilhosa - Part 1",
+          "url": "https://www.youtube.com/watch?v=G4APVsIYuh4&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=23"
+        },
+        {
+          "titulo": "A Vida é Quatravilhosa - Part 2",
+          "url": "https://www.youtube.com/watch?v=F2W-SpSpG2Y&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=24"
+        },
+        {
+          "titulo": "As Aventuras do Super 3 - Part 1",
+          "url": "https://www.youtube.com/watch?v=R3q_Y-681Hc&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=25"
+        },
+        {
+          "titulo": "As Aventuras do Super 3 - Part 2",
+          "url": "https://www.youtube.com/watch?v=HFexU9Kni3U&list=PLqHuvUxV34iqVfS6VRGJ-9q642K9v6ZBi&index=26"
+        }
+      ]
+    },
+    {
+      "titulo": "Temporada 3",
+      "cor": "#ff5ab1",
+      "videos": [
+        {
+          "titulo": "A Grande Loja",
+          "url": "https://www.youtube.com/watch?v=Voa3prfdjR4&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=2&t=0s"
+        },
+        {
+          "titulo": "Jantar pela Manhã",
+          "url": "https://www.youtube.com/watch?v=vhbyoOTHly0&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=2"
+        },
+        {
+          "titulo": "A Palavra Feia",
+          "url": "https://www.youtube.com/watch?v=E9O1nw_ruFA&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=3"
+        },
+        {
+          "titulo": "Meu Crustáceo Favorito",
+          "url": "https://www.youtube.com/watch?v=Ngwd-jSoM_w&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=4"
+        },
+        {
+          "titulo": "Viagem ao Fundo da Caixa de Cereal",
+          "url": "https://www.youtube.com/watch?v=WWEfAo2WuDc&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=5"
+        },
+        {
+          "titulo": "Meio Dia em Ponto",
+          "url": "https://www.youtube.com/watch?v=wbBt2rzaMaM&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=6"
+        },
+        {
+          "titulo": "Dia de Limpeza",
+          "url": "https://www.youtube.com/watch?v=4cxitR9fd4s&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=7"
+        },
+        {
+          "titulo": "Tudo em Paz no Front dps Monstros",
+          "url": "https://www.youtube.com/watch?v=GSsTM8Dlw4Y&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=8"
+        },
+        {
+          "titulo": "A Bordo Marujos",
+          "url": "https://www.youtube.com/watch?v=z5z4vs-Uits&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=9"
+        },
+        {
+          "titulo": "O Cavalinho",
+          "url": "https://www.youtube.com/watch?v=jpIOS0q2SK8&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=10"
+        },
+        {
+          "titulo": "Histórias para o Cinco",
+          "url": "https://www.youtube.com/watch?v=R4908-HeisY&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=11"
+        },
+        {
+          "titulo": "Pesadelo na Rua Castanheira",
+          "url": "https://www.youtube.com/watch?v=ybRkyR0LFw0&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=12"
+        },
+        {
+          "titulo": "Bola Desastrada",
+          "url": "https://www.youtube.com/watch?v=FfDy2qBGT8Q&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=13"
+        },
+        {
+          "titulo": "O Jogo de Boliche",
+          "url": "https://www.youtube.com/watch?v=lcVRDAUOCFw&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=14"
+        },
+        {
+          "titulo": "As Dores do Dois",
+          "url": "https://www.youtube.com/watch?v=10QDaQjp-Js&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=15"
+        },
+        {
+          "titulo": "O Nariz Sabe",
+          "url": "https://www.youtube.com/watch?v=J1nRKywQKyU&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=16"
+        },
+        {
+          "titulo": "EU Vou Contar",
+          "url": "https://www.youtube.com/watch?v=yhXmAeJtNb0&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=17"
+        },
+        {
+          "titulo": "Pinga! Pinga! Pinga!",
+          "url": "https://www.youtube.com/watch?v=y3yH0GbNYOE&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=18"
+        },
+        {
+          "titulo": "As Moedinhas do Sete",
+          "url": "https://www.youtube.com/watch?v=XkVxhRwyO54&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=19"
+        },
+        {
+          "titulo": "Bang! Zoom! Para a Lua!",
+          "url": "https://www.youtube.com/watch?v=_5kdEkoquNw&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=20"
+        },
+        {
+          "titulo": "As Regras do Jogo",
+          "url": "https://www.youtube.com/watch?v=Kaj39vrjdmw&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=21"
+        },
+        {
+          "titulo": "Essa é a Nossa Vida",
+          "url": "https://www.youtube.com/watch?v=6NR28Wqrwx8&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=22"
+        },
+        {
+          "titulo": "O Lixo dos Monstros",
+          "url": "https://www.youtube.com/watch?v=szQOYNqPacs&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=23"
+        },
+        {
+          "titulo": "Bisbilhoteiro",
+          "url": "https://www.youtube.com/watch?v=K6dUzj0pkGM&list=PLgVbr09bnqW4Jdm9sxYQjQkpxiu9RpsWU&index=24"
+        }
+      ]
+    },
+    {
+      "titulo": "Curiosidade",
+      "cor": "#ff5ab1",
+      "videos": [
+        {
+          "titulo": "Abertura dos Sete Monstrinhos",
+          "url": "https://www.youtube.com/watch?v=EVm1jScscsM"
+        },
+        {
+          "titulo": "Teoria dos Sete Monstrinhos - Pecados Capitais",
+          "url": "https://www.youtube.com/watch?v=u3PyI6n-QV8"
+        },
+        {
+          "titulo": "Teoria dos Sete Monstrinhos - Inspiração",
+          "url": "https://www.youtube.com/watch?v=gVDn80G8hCw"
+        },
+        {
+          "titulo": "Curiosidades, Informações e Personagens",
+          "url": "https://www.youtube.com/watch?v=wEDXmP-uNhk"
+        },
+        {
+          "titulo": "Abertura no Piano",
+          "url": "https://www.youtube.com/watch?v=qyRUmuDZMPM"
+        }
+      ]
+    }
+  ]
+}
