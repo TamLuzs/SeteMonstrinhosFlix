@@ -6,8 +6,7 @@ Criar uma aplicação web com React baseada no layout da Netflix durante 4 dias 
 
 ### Descrição do Projeto:
 A aplicação reúne todas as temporadas da animação "Os Sete Monstrinhos" disponibilizada no Youtube.
-<br><br>
-**Nível de Dificuldade:** Alto
+- **Nível de Dificuldade:** Alto
 
 ### Informações Adicionais:
 Todas às extensões mencionadas no arquivo package.json deve ser instaladas para funcionamento do sistema. Para concluir, a exibição deve ser digitado no terminal de comado abaixo.
