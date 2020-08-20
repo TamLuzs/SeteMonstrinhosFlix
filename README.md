@@ -14,7 +14,7 @@ Todas às extensões mencionadas no arquivo package.json deve ser instaladas par
 - **Instalação de Extensões:** `npm install`
 - **Front-End e Back-End:** `npm run dev`
 
-### Ferramentas/Codificação Utilizadas:
+### Ferramentas/Tecnologias Utilizadas:
 - VsCode;
 - JavaScript;
 - HTML5 e CSS3 / HTML e CSS;
